@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="query" />
+        <module name="base-api" />
+        <module name="order-api" />
+        <module name="query-api" />
+        <module name="user-api" />
+        <module name="swagger2-api" />
+        <module name="user" />
+        <module name="gateway" />
+        <module name="redis-api" />
+        <module name="order" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin" target="1.8" />
+      <module name="base-api" target="1.8" />
+      <module name="chapter-api" target="1.8" />
+      <module name="class" target="1.8" />
+      <module name="class-api" target="1.8" />
+      <module name="comment-api" target="1.8" />
+      <module name="course" target="1.8" />
+      <module name="course-api" target="1.8" />
+      <module name="durations-api" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="information-api" target="1.8" />
+      <module name="IntelligentFlight" target="1.8" />
+      <module name="interaction" target="1.8" />
+      <module name="interlocution-api" target="1.8" />
+      <module name="order" target="1.8" />
+      <module name="order-api" target="1.8" />
+      <module name="practice-api" target="1.8" />
+      <module name="progress" target="1.8" />
+      <module name="query" target="1.8" />
+      <module name="query-api" target="1.8" />
+      <module name="redis-api" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="service-api" target="1.8" />
+      <module name="swagger2-api" target="1.8" />
+      <module name="type-api" target="1.8" />
+      <module name="user" target="1.8" />
+      <module name="user-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

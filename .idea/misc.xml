@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/admin/pom.xml" />
+        <option value="$PROJECT_DIR$/service-api/chapter-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service-api/class-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service-api/comment-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service-api/course-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service-api/durations-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service-api/information-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service-api/interlocution-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service-api/practice-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service-api/type-api/pom.xml" />
+        <option value="$PROJECT_DIR$/service/class/pom.xml" />
+        <option value="$PROJECT_DIR$/service/course/pom.xml" />
+        <option value="$PROJECT_DIR$/service/interaction/pom.xml" />
+        <option value="$PROJECT_DIR$/service/progress/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

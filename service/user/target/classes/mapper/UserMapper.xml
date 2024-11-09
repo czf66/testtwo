@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.flight.user.mapper.UserMapper">
+    <!--查找数据库是否有这个email-->
+    <select id="getOneByEmail" parameterType="string" resultType="java.lang.Boolean">
+        SELECT 1 FROM `user` WHERE email = #{email} AND deleted = 0 LIMIT 1
+    </select>
+    <!--查找数据库是否有这个phoneNumber-->
+    <select id="getOneByPhoneNumber" parameterType="string" resultType="java.lang.Boolean">
+        SELECT 1 FROM `user` WHERE phone_number = #{phoneNumber} AND deleted = 0 LIMIT 1
+    </select>
+    <!--通过password查找数据库是否为此password-->
+    <select id="getOneByPassword" parameterType="string" resultType="java.lang.Boolean">
+        SELECT 1 FROM `user` WHERE user_id = #{userId} AND password = #{oldPassword} AND deleted = 0 LIMIT 1
+    </select>
+</mapper>

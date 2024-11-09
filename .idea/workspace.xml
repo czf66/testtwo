@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="feb68d22-1416-4f14-9504-540e8d3a9e77" name="Default Changelist" comment="v4.0.2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Mybatis Mapper" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\javaee\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HclCSOiw9IuFrsLSY3oyrmfD7o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\MyProject\IntelligentFlight\service\order\src\main\java\com\flight\order" />
+      <recent name="D:\IDEA\MyProject\IntelligentFlight\service\order\src\main\resources" />
+      <recent name="D:\IDEA\MyProject\IntelligentFlight\service\query\src\main\java\com\flight\query" />
+      <recent name="D:\IDEA\MyProject\IntelligentFlight\service\query\src\main\resources" />
+      <recent name="D:\IDEA\MyProject\IntelligentFlight\service-api\order-api\src\main\java\com\flight\order" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.flight.base.util" />
+      <recent name="com.flight.gateway.config" />
+      <recent name="com.flight.order.mapper" />
+      <recent name="com.flight.order.domain" />
+      <recent name="com.flight.query.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA\MyProject\IntelligentFlight\service-api" />
+      <recent name="D:\IDEA\MyProject\IntelligentFlight\service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderApplication">
+    <configuration name="Whole project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.flight.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flight.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.flight.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="query" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flight.query.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.flight.query.QueryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.flight.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Whole project" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.QueryApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.QueryApplication" />
+        <item itemvalue="JUnit.Whole project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feb68d22-1416-4f14-9504-540e8d3a9e77" name="Default Changelist" comment="" />
+      <created>1668592125690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668592125690</updated>
+      <workItem from="1668592126706" duration="3351000" />
+      <workItem from="1668660047097" duration="3597000" />
+      <workItem from="1668672336229" duration="68000" />
+      <workItem from="1668672410946" duration="17084000" />
+      <workItem from="1668699581544" duration="8482000" />
+      <workItem from="1668751136123" duration="9033000" />
+      <workItem from="1668764200468" duration="19289000" />
+      <workItem from="1668843305325" duration="5526000" />
+      <workItem from="1668959119321" duration="158000" />
+      <workItem from="1669108242983" duration="552000" />
+      <workItem from="1670158449403" duration="1070000" />
+      <workItem from="1670460881421" duration="9735000" />
+      <workItem from="1670471391747" duration="9807000" />
+      <workItem from="1672826610544" duration="2963000" />
+      <workItem from="1673920877764" duration="7988000" />
+      <workItem from="1674097856031" duration="12048000" />
+      <workItem from="1677396390323" duration="83000" />
+      <workItem from="1681292605833" duration="1008000" />
+      <workItem from="1693130791735" duration="612000" />
+      <workItem from="1693209751427" duration="4087000" />
+      <workItem from="1693216678405" duration="6398000" />
+      <workItem from="1693382389943" duration="2954000" />
+      <workItem from="1693459578665" duration="3184000" />
+      <workItem from="1693486873612" duration="5363000" />
+      <workItem from="1693554777335" duration="9536000" />
+      <workItem from="1693636647822" duration="16522000" />
+      <workItem from="1693724663197" duration="5332000" />
+      <workItem from="1693813614148" duration="13019000" />
+      <workItem from="1693987768383" duration="4843000" />
+      <workItem from="1694065450681" duration="14358000" />
+      <workItem from="1694325107431" duration="597000" />
+      <workItem from="1694436094723" duration="596000" />
+      <workItem from="1696854440344" duration="593000" />
+      <workItem from="1696856254290" duration="595000" />
+      <workItem from="1697200226081" duration="595000" />
+      <workItem from="1697266590312" duration="592000" />
+      <workItem from="1701328460883" duration="594000" />
+      <workItem from="1701330257107" duration="595000" />
+      <workItem from="1701434273299" duration="595000" />
+      <workItem from="1701498629652" duration="594000" />
+      <workItem from="1701586677851" duration="593000" />
+      <workItem from="1701676721942" duration="592000" />
+      <workItem from="1701929693240" duration="593000" />
+      <workItem from="1702101927550" duration="594000" />
+      <workItem from="1711089020954" duration="2387000" />
+      <workItem from="1712987676240" duration="1442000" />
+      <workItem from="1713073985533" duration="1208000" />
+      <workItem from="1713432747602" duration="770000" />
+      <workItem from="1713510173873" duration="594000" />
+      <workItem from="1713599756023" duration="594000" />
+      <workItem from="1715407335497" duration="1190000" />
+      <workItem from="1715409752062" duration="1452000" />
+      <workItem from="1715496313671" duration="593000" />
+      <workItem from="1715925282658" duration="595000" />
+      <workItem from="1716099684589" duration="594000" />
+      <workItem from="1716296766706" duration="3369000" />
+      <workItem from="1716372755129" duration="1944000" />
+      <workItem from="1716444331965" duration="1283000" />
+      <workItem from="1716538607071" duration="595000" />
+      <workItem from="1716615271171" duration="645000" />
+      <workItem from="1716704916853" duration="1581000" />
+      <workItem from="1716794898957" duration="888000" />
+      <workItem from="1716859068600" duration="1191000" />
+      <workItem from="1717052244634" duration="596000" />
+      <workItem from="1717157263609" duration="594000" />
+      <workItem from="1717484189015" duration="693000" />
+      <workItem from="1718435123943" duration="595000" />
+      <workItem from="1718438062714" duration="595000" />
+      <workItem from="1718520779383" duration="1021000" />
+      <workItem from="1718612895975" duration="1190000" />
+      <workItem from="1718693002413" duration="602000" />
+      <workItem from="1724740322035" duration="654000" />
+      <workItem from="1724742111946" duration="595000" />
+      <workItem from="1724831364357" duration="596000" />
+      <workItem from="1724910592125" duration="1048000" />
+      <workItem from="1724997741971" duration="689000" />
+      <workItem from="1725077599779" duration="936000" />
+      <workItem from="1725162517961" duration="1992000" />
+      <workItem from="1725244787558" duration="1781000" />
+      <workItem from="1725342610645" duration="595000" />
+      <workItem from="1725946192943" duration="595000" />
+      <workItem from="1726109676043" duration="1790000" />
+      <workItem from="1726194408862" duration="593000" />
+      <workItem from="1726716914509" duration="609000" />
+      <workItem from="1726805384657" duration="611000" />
+      <workItem from="1726815236489" duration="1192000" />
+      <workItem from="1726888608109" duration="594000" />
+      <workItem from="1726975297804" duration="594000" />
+      <workItem from="1727082489278" duration="1115000" />
+      <workItem from="1727183140453" duration="631000" />
+      <workItem from="1727248584108" duration="591000" />
+      <workItem from="1727329078884" duration="594000" />
+      <workItem from="1727417787568" duration="593000" />
+      <workItem from="1727422602054" duration="595000" />
+      <workItem from="1728540593612" duration="595000" />
+      <workItem from="1728626748847" duration="630000" />
+      <workItem from="1728714567691" duration="591000" />
+      <workItem from="1728788853326" duration="595000" />
+      <workItem from="1729151368609" duration="916000" />
+      <workItem from="1729234336275" duration="622000" />
+      <workItem from="1729321681111" duration="647000" />
+      <workItem from="1729407080500" duration="616000" />
+      <workItem from="1729668747611" duration="594000" />
+      <workItem from="1730180605275" duration="604000" />
+      <workItem from="1730182400145" duration="653000" />
+      <workItem from="1730281940052" duration="714000" />
+      <workItem from="1730359674216" duration="817000" />
+      <workItem from="1730441541279" duration="594000" />
+      <workItem from="1730529997963" duration="594000" />
+      <workItem from="1730614811332" duration="595000" />
+      <workItem from="1730711235709" duration="616000" />
+      <workItem from="1730774646471" duration="918000" />
+      <workItem from="1730880578608" duration="1188000" />
+      <workItem from="1730961419112" duration="594000" />
+      <workItem from="1731134701218" duration="603000" />
+    </task>
+    <task id="LOCAL-00001" summary="v4.0.2">
+      <created>1668592306589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668592306589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v4.0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="v4.0.2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="85" width="1186" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1727083012696">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="85" width="1186" height="690" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1727083012696" />
+    <state width="1024" height="325" key="GridCell.Tab.0.bottom" timestamp="1725162693988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="325" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1725162693988" />
+    <state width="1024" height="325" key="GridCell.Tab.0.center" timestamp="1725162693988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="325" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1725162693988" />
+    <state width="1024" height="325" key="GridCell.Tab.0.left" timestamp="1725162693988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="325" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1725162693988" />
+    <state width="1024" height="325" key="GridCell.Tab.0.right" timestamp="1725162693988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="325" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1725162693988" />
+    <state width="1024" height="325" key="GridCell.Tab.1.bottom" timestamp="1725162693988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="325" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1725162693988" />
+    <state width="1024" height="325" key="GridCell.Tab.1.center" timestamp="1725162693988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="325" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1725162693988" />
+    <state width="1024" height="325" key="GridCell.Tab.1.left" timestamp="1725162693988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="325" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1725162693988" />
+    <state width="1024" height="325" key="GridCell.Tab.1.right" timestamp="1725162693988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="325" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1725162693988" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+package com.flight.query.config;
+
+import com.flight.swagger.config.BaseSwaggerConfig;
+import com.flight.swagger.domain.SwaggerProperties;
+import org.springframework.context.annotation.Configuration;
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
+
+/**
+ * @author Lwwwwaaa
+ * @since 2022/10/17
+ */
+@Configuration
+@EnableSwagger2
+public class SwaggerConfig extends BaseSwaggerConfig {
+    @Override
+    public SwaggerProperties swaggerProperties() {
+        return SwaggerProperties.builder()
+                .apiBasePackage("com.flight.query.controller")
+                .title("智能航班")
+                .description("智能航班查询航班接口文档")
+                .contactName("")
+                .version("1.0")
+//                .enableSecurity(true)
+                .build();
+    }
+}
